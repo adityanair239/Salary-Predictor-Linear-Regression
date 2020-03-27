@@ -10,5 +10,4 @@ Modules Used -
 4) numpy
 
 Screenshot - 
-
 <img src="screenshots/graph.png">
