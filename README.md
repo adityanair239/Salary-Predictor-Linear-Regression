@@ -11,10 +11,4 @@ Modules Used -
 
 Screenshot - 
 
-
-
-
-
-
-
 <img src="screenshots/graph.png">
