@@ -25,7 +25,7 @@ def plot_line(x,x_test,y_test,b):
 
 
 def main():
-    data = pd.read_csv('D:/Datasets/Salary/Salary_Data.csv')
+    data = pd.read_csv('Data/Salary_Data.csv')
     x = data['YearsExperience']
     y = data['Salary']
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3)
